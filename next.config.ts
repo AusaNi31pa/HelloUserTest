@@ -9,11 +9,11 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "i.pravatar.cc", // เผื่ออนาคต
+        hostname: "i.pravatar.cc", 
       },
       {
         protocol: "https",
-        hostname: "**", // ❗ ถ้าจะเปิดทุกโดเมน (dev เท่านั้น)
+        hostname: "**", 
       },
     ],
   },
